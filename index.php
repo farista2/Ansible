@@ -1,6 +1,3 @@
-
-<!--  <img src="https://raw.githubusercontent.com/farista2/test/master/Docker.png" alt="Girl in a jacket"> -->
-
 <head>
 <style>
 body {
@@ -11,7 +8,7 @@ body {
 }
 </style>
 </head>
-HEllo Ansible, this is testing code
+Hello, this is just a Testing code
 <pre>
 <?php
 print `/usr/sbin/ifconfig`;
